@@ -1,4 +1,6 @@
-# Inside Find CIP-1694 For The Cardano Blockchain
+# Continued Cardano Community Corruption (C4)
+
+## Inside Find CIP-1694 For The Cardano Blockchain
 
 ## Henceforth known as making rules for the community without broad community input and holding rewards hostage to force votes. FREEEEEDDDUMB!!!!
 
