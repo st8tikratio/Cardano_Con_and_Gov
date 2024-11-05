@@ -3,7 +3,7 @@
 ## Inside Find
 - CIP 1694
 - Intersect Consitution
-- Other Docs
+- Other Links
 
 ## Henceforth known as making rules for the community without broad community input and holding rewards hostage to force votes. FREEEEEDDDUMB!!!!
 
