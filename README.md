@@ -1,4 +1,4 @@
-# Continued Cardano Community Corruption (C4)
+# Continued Cardano Community Corruption ($C^4$)
 
 ## Inside Find
 - CIP 1694
