@@ -1,3 +1,5 @@
+Source: https://github.com/IntersectMBO/draft-constitution?tab=readme-ov-file
+
 `Draft 2024-07-29`
 
 # CARDANO BLOCKCHAIN ECOSYSTEM CONSTITUTION
