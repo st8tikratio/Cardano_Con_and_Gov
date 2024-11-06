@@ -2,7 +2,7 @@
 
 ## Inside Find
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md)
-- [Intersect Consitution]( )
+- [Intersect Consitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md)
 - [Other Links]( )
 
 ## Henceforth known as making rules for the community without broad community input and holding rewards hostage to force votes. FREEEEEDDDUMB!!!!
