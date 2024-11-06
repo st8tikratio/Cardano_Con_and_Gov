@@ -1,5 +1,5 @@
-- Source: https://github.com/IntersectMBO/draft-constitution?tab=readme-ov-file
-- Also here: https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution
+- [Source 1](https://github.com/IntersectMBO/draft-constitution?tab=readme-ov-file)
+- [Source 2](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution)
 
 `Draft 2024-07-29`
 
