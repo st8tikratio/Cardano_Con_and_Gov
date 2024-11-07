@@ -1,4 +1,4 @@
-## This repo is focused on the (ca 2024) Cardano Constitution.
+## This repo is focused on Cardano Governance.
 ###### $C^4$ in full effect!!!
 #### CONTENTS & LINKS:
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
@@ -13,3 +13,4 @@
 - [Constitutional Notes & Resources](https://docs.google.com/document/d/1J_DEH1L6YBR4dtwFHs418clVooTNLTlWSLra8G3Y-kw/edit?tab=t.0)
 - [Cardano: Draft Constitution Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSck3gj4D9iKw_jJORrBbEQNKWcSDPPl_eu91qtK9XxrkxMw0g/viewform)
 - [Constitution discussion on Cardano Forum](https://forum.cardano.org/c/governance/constitution/212)
+- [Cardano CIPS (Cardano Improvement Proposals) & CPS (Cardano Problem Statements)](https://github.com/cardano-foundation/CIPs/tree/master)
