@@ -4,7 +4,9 @@
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md)
 - [Intersect Consitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md)
 - [Other Links](https://github.com/st8tikratio/CCCC/blob/main/OtherLinks.md)
-- [Constitutional Workshop Notes and Questions](https://github.com/st8tikratio/CCCC/blob/main/Constitutional%20Workshop%20Topics%20and%20Q's%20-%20Google%20Docs.pdf)
+- [Constitutional Workshop Topics and Questions](https://github.com/st8tikratio/CCCC/blob/main/Constitutional%20Workshop%20Topics%20and%20Q's%20-%20Google%20Docs.pdf)
+- [Cardano Draft Constitution]()
+- [2024-09-20-draft-constitution]()
 
 ## Henceforth known as making rules for the community without broad community input and holding rewards hostage to force votes. FREEEEEDDDUMB!!!!
 
