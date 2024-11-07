@@ -1,4 +1,5 @@
-## This repo is focused on $C^4$ and the (ca 2024) Cardano Constitution
+## This repo is focused on the (ca 2024) Cardano Constitution.
+###### $C^4$ in full effect!!!
 #### CONTENTS & LINKS:
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md)
 - [Intersect Constitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md) Source: [here](https://docs.intersectmbo.org/cardano/cardano-governance)
