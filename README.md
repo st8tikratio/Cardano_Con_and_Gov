@@ -1,7 +1,7 @@
 ## This repo is focused on the (ca 2024) Cardano Constitution.
 ###### $C^4$ in full effect!!!
 #### CONTENTS & LINKS:
-- [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md)
+- [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
 - [Intersect Constitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md) Source: [here](https://docs.intersectmbo.org/cardano/cardano-governance)
 - [Cardano Draft Constitution](https://github.com/st8tikratio/CCCC/blob/main/Cardano%20Draft%20Constitution.pdf)
 - [Constitutional Workshop Topics and Questions](https://github.com/st8tikratio/CCCC/blob/main/Constitutional%20Workshop%20Topics%20and%20Q's%20-%20Google%20Docs.pdf) Source: [here](https://docs.google.com/document/d/1_aEfTRbAFJebCbg9DiLjBmSuwYfW-i-Rjk1cqXUKrXo/edit?tab=t.0#heading=h.4mdrss2rywz2)
