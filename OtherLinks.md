@@ -1,7 +1,7 @@
 # Other Links
 as they are encountered
 
-###Some of the below links can be found in the [Readme.md]()
+### Some of the below links can be found in the [Readme.md](https://github.com/st8tikratio/CCCC/blob/main/README.md)
 
 1. [This doc resembles running notes](https://docs.google.com/document/d/1J_DEH1L6YBR4dtwFHs418clVooTNLTlWSLra8G3Y-kw/edit?tab=t.0)
 2. [This is a feedback form open to those who were unable to or unaware of the various Constitutional meetups across the world](https://docs.google.com/forms/d/e/1FAIpQLSck3gj4D9iKw_jJORrBbEQNKWcSDPPl_eu91qtK9XxrkxMw0g/viewform)
