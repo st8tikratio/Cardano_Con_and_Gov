@@ -33,6 +33,6 @@
 #
 #
 #### Community Channels and Info
-- [Essential Cardano via IOG](https://www.essentialcardano.io/community); requires data collection apparently
+- [Community Channels via IOG](https://www.essentialcardano.io/community); requires data collection apparently
 - [Essential Cardano List via Intersect](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list); lengthy
 ###### /end
