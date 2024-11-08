@@ -24,4 +24,4 @@
 
 #### DRep, Delegate, Vote and More
 - [Gov Tools](https://gov.tools/)
-- [Reward Schemes for DReps in Voltaire]() Source: [here](https://docs.google.com/document/d/1_uadn9Ord3mAYQGWHQySR73CQciVk2YNc5rt8npJ6Aw/edit?tab=t.0#heading=h.zdwziyr50kye) 
+- [Reward Schemes for DReps in Voltaire](https://github.com/st8tikratio/CCon/blob/main/Voltaire%20-%20dRep%20reward%20scheme%20options%20-%20Google%20Docs.pdf) Source: [here](https://docs.google.com/document/d/1_uadn9Ord3mAYQGWHQySR73CQciVk2YNc5rt8npJ6Aw/edit?tab=t.0#heading=h.zdwziyr50kye) 
