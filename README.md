@@ -1,7 +1,10 @@
-## This repo is focused on Cardano Governance.
+# This repo is focused on Cardano Governance #
+
 ###### $C^4$ in full effect!!!
 ###### Special thanks to Intersect for providing the constitution, the gov tools, everything for the Cardano Community...a single entity that ~appoints~ selects people to fill seats. 👏
 ###### ❗As you read through the documents below notice how many community related topics are OOS (out of scope) for said documents and proposals.
+
+
 #### CIPs (Cardano Improvement Proposals) and CPS (Cardano Problem Statements)
 - [Cardano CIPs & CPS](https://github.com/cardano-foundation/CIPs/tree/master)
 - [CIPs via Cardano Foundation](https://cips.cardano.org/)
@@ -33,6 +36,6 @@
 #
 #
 #### Community Channels and Info
-- [Community Channels via IOG](https://www.essentialcardano.io/community); requires data collection apparently
-- [Essential Cardano List via Intersect](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list); lengthy
+- [Community Channels via IOG](https://www.essentialcardano.io/community)
+- [Essential Cardano List via Intersect](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
 ###### /end
