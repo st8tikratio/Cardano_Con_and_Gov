@@ -1,4 +1,4 @@
-# This repo is focused on Cardano Governance #
+# This repo is focused on Cardano governance #
 
 ###### ❗❗ Where possible all documents were converted to PDF and uploaded to this repo in case the docs 'get lost' or 'change locations.' Always check source links when provided.
 ###### ⚠️⚠️ If you are unfamiliar with the Draft Constitution it is recommended that you [read this document](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0) or [PDF here](https://github.com/st8tikratio/CCCC/blob/main/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) to gain an understanding of its futuer potential impacts.
