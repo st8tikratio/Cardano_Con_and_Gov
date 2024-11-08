@@ -35,7 +35,7 @@
 #
 #
 #
-#### Community Channels and Info
+#### Ecosystem and Infos
 - [Community Channels via IOG](https://www.essentialcardano.io/community)
 - [Essential Cardano List via Intersect](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
 ###### /end
