@@ -32,5 +32,6 @@
 #
 #
 #
-#
-#/end
+#### Community Channels and Info
+- [Essential Cardano via IOG](https://www.essentialcardano.io/community)
+###### /end
