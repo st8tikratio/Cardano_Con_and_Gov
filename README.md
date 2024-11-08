@@ -1,18 +1,16 @@
 # This repo is focused on Cardano Governance #
 
-###### $C^4$ in full effect!!!
-###### Special thanks to Intersect for providing the constitution, the gov tools, everything for the Cardano Community...a single entity that ~appoints~ selects people to fill seats. 👏
-###### ❗As you read through the documents below notice how many community related topics are OOS (out of scope) for said documents and proposals.❗
-
+###### ❗❗ Where possible all documents were converted to PDF and uploaded to this repo in case the docs 'get lost' or 'change locations.' Always check source links when provided.
+###### ⚠️⚠️ If you are unfamiliar with the Draft Constitution it is recommended that you [read this document](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0) or [PDF here](https://github.com/st8tikratio/CCCC/blob/main/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) to gain an understanding of its futuer potential impacts.
 
 #### CIPs (Cardano Improvement Proposals) and CPS (Cardano Problem Statements)
 - [Cardano CIPs & CPS](https://github.com/cardano-foundation/CIPs/tree/master)
 - [CIPs via Cardano Foundation](https://cips.cardano.org/)
 
 #### CIP-1694 (causing all the problems):
-- [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
+- [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) - Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
 
-#### Constitution (as provided by Intersect) Related
+#### Constitution Related
 - [Intersect MBO Github Account](https://github.com/IntersectMBO)
 - [Intersect Constitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md) - Source: [here](https://docs.intersectmbo.org/cardano/cardano-governance)
 - [Intersect Constitutional Council](https://github.com/IntersectMBO/intersect-constitutional-council)
@@ -22,8 +20,9 @@
 - [Constitutional Workshop Glossary](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/constitutional-workshop-glossary)
 - [2024-09-20-draft-constitution-edits](https://github.com/st8tikratio/CCCC/blob/main/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0)
 - [Constitutional Notes & Resources](https://docs.google.com/document/d/1J_DEH1L6YBR4dtwFHs418clVooTNLTlWSLra8G3Y-kw/edit?tab=t.0)
-- [Cardano: Draft Constitution Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSck3gj4D9iKw_jJORrBbEQNKWcSDPPl_eu91qtK9XxrkxMw0g/viewform)
 - [Constitution discussion on Cardano Forum](https://forum.cardano.org/c/governance/constitution/212)
+- [Feedback Form for Cardano Draft Constitution via Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSck3gj4D9iKw_jJORrBbEQNKWcSDPPl_eu91qtK9XxrkxMw0g/viewform)
+
 
 #### DRep, Delegate, Vote and More
 - [Gov Tools](https://gov.tools/) - All things DRep; register, delegate, vote
