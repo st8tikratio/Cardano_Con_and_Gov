@@ -1,5 +1,6 @@
 ## This repo is focused on Cardano Governance.
 ###### $C^4$ in full effect!!!
+###### Special thanks to Intersect for providing the constitution, the gov tools, everything for the Cardano Community...a single entity that ~appoints~ selects people to fill seats. 👏
 #### CONTENTS & LINKS:
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
 - [Intersect MBO Github Account](https://github.com/IntersectMBO)
@@ -14,3 +15,6 @@
 - [Cardano: Draft Constitution Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSck3gj4D9iKw_jJORrBbEQNKWcSDPPl_eu91qtK9XxrkxMw0g/viewform)
 - [Constitution discussion on Cardano Forum](https://forum.cardano.org/c/governance/constitution/212)
 - [Cardano CIPS (Cardano Improvement Proposals) & CPS (Cardano Problem Statements)](https://github.com/cardano-foundation/CIPs/tree/master) and [here](https://cips.cardano.org/)
+
+#### Become a DRep, Delegate, Vote
+- [Gov Tools](https://gov.tools/)
