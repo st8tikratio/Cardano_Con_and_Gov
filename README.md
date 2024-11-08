@@ -30,14 +30,9 @@
 - [DRep Pioneering Program via Intersect](https://docs.intersectmbo.org/cardano/cardano-governance/drep-pioneering-program) - Single page
 - [DRep Program Overview via Intersect](https://dreppioneeringprogram.docs.intersectmbo.org/)
 - [DRep Program - Onboarding Pack](https://github.com/st8tikratio/CCon/blob/main/DRep%20Program%20-%20Onboarding%20Pack.pdf) - Source: [here](https://2450011466-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVNa3QAZtN9ihYGiFy8AM%2Fuploads%2FS1jW0fnJ6l1DPejz92Ct%2FDRep%20Program%20-%20Onboarding%20Pack.pdf?alt=media&token=dc58eda9-0c94-418f-9891-783f8ac03974)
-#
-#
-#
-#
-#
-#
-#
+
 #### Ecosystem and Infos
 - [Community Channels via IOG](https://www.essentialcardano.io/community)
 - [Essential Cardano List via Intersect](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
-###### /end
+
+###### end
