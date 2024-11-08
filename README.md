@@ -2,7 +2,7 @@
 
 ###### $C^4$ in full effect!!!
 ###### Special thanks to Intersect for providing the constitution, the gov tools, everything for the Cardano Community...a single entity that ~appoints~ selects people to fill seats. 👏
-###### ❗As you read through the documents below notice how many community related topics are OOS (out of scope) for said documents and proposals.
+###### ❗As you read through the documents below notice how many community related topics are OOS (out of scope) for said documents and proposals.❗
 
 
 #### CIPs (Cardano Improvement Proposals) and CPS (Cardano Problem Statements)
