@@ -33,6 +33,6 @@
 
 #### Ecosystem and Infos:
 - [Community Channels via IOG](https://www.essentialcardano.io/community)
-- [Essential Cardano List via Intersect](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Essential_Cardano_via_Intersect.md)) - Source: [here](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
+- [Essential Cardano List via Intersect](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Essential_Cardano_via_Intersect.md) - Source: [here](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
 
 ###### end
