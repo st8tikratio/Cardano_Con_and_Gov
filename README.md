@@ -22,6 +22,7 @@
 - [Constitutional Notes & Resources](https://docs.google.com/document/d/1J_DEH1L6YBR4dtwFHs418clVooTNLTlWSLra8G3Y-kw/edit?tab=t.0)
 - [Constitution discussion on Cardano Forum](https://forum.cardano.org/c/governance/constitution/212)
 - [Feedback Form for Cardano Draft Constitution via Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSck3gj4D9iKw_jJORrBbEQNKWcSDPPl_eu91qtK9XxrkxMw0g/viewform)
+- [Constitutional Committee Portal](https://constitution.gov.tools/)
 
 
 ### DRep, Delegate, Vote and More:
