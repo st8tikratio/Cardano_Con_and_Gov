@@ -39,4 +39,4 @@
 - [Essential Cardano List via Intersect](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Essential_Cardano_via_Intersect.md) - Source: [here](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
 - [Wealth Composition via Cardano Explorer](https://cexplorer.io/wealth)
 
-###### end
+###### 🛑 end
