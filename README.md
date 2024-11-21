@@ -11,7 +11,7 @@
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) - Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
 
 ### Constitution Related
-- [20-Nov-2024 DRAFT Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/20Nov2024_Cardano_DRAFT_Constitution.md) - Source:[here](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-11-20)
+- [20-Nov-2024 DRAFT Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/20Nov2024_Cardano_DRAFT_Constitution.md) - Source: [here](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-11-20)
 - [2024-09-20-draft-constitution-edits](https://github.com/st8tikratio/CCCC/blob/main/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0)
 - [Intersect Constitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md) - Source: [here](https://docs.intersectmbo.org/cardano/cardano-governance)
 - [Intersect MBO Github Account](https://github.com/IntersectMBO)
