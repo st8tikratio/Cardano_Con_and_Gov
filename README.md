@@ -12,7 +12,7 @@
 
 ### Constitution Related
 #### Gimbalabs
-- [23-Nov-2024, Adam Dean, Gimbalabs, NOTES, Melding the two Cardano draft constitutions - `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/23Nov2024-AdamDean-Gimbalabs-Melding_the-best_of_both_Cardano_draft_constitutions.pdf) - Source: [here](https://docs.google.com/document/d/1g6X_xtV0zs7koHzWwkQeVwpUGKPYN3B70iova5HKX1U/edit?tab=t.0#heading=h.pcg2e6xsuh3h)
+- [23-Nov-2024, Adam Dean, Gimbalabs, NOTES, Melding the two Cardano draft constitutions `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/23Nov2024-AdamDean-Gimbalabs-Melding_the-best_of_both_Cardano_draft_constitutions.pdf) - Source: [here](https://docs.google.com/document/d/1g6X_xtV0zs7koHzWwkQeVwpUGKPYN3B70iova5HKX1U/edit?tab=t.0#heading=h.pcg2e6xsuh3h)
 
 #### Cardano Foundation
 - [20-Nov-2024 Proposal for Constitution Of The Cardano Blockchain](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf) - Source: [here](https://ucarecdn.com/a78167c7-ff20-4f32-9fad-1797206bddb1/)
