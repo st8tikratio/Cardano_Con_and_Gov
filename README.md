@@ -16,10 +16,12 @@
 
 #### Cardano Foundation
 - [20-Nov-2024 Proposal for Constitution Of The Cardano Blockchain](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf) - Source: [here](https://ucarecdn.com/a78167c7-ff20-4f32-9fad-1797206bddb1/)
+  - `Marked-up version` [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Marked-up_241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf)
 - [Cardano Foundation’s Proposal for a Cardano Constitution website](https://cardanofoundation.org/blog/proposal-for-cardano-constitution)
   
 #### Intersect MBO
 - [20-Nov-2024 DRAFT Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/20Nov2024_Cardano_DRAFT_Constitution.md) - PDF: [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/20-11-2024_IntersectMBO_draft-constitution.pdf) - Source: [here](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-11-20)
+  - `Marked-up version` [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Marked_Up_20-11-2024_IntersectMBO_draft-constitution.pdf)
 - [2024-09-20-draft-constitution-edits](https://github.com/st8tikratio/CCCC/blob/main/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0)
 - [Intersect Constitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md) - Source: [here](https://docs.intersectmbo.org/cardano/cardano-governance)
 - [Intersect MBO Github Account](https://github.com/IntersectMBO)
