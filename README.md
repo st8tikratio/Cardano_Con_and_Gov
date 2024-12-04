@@ -14,7 +14,7 @@
 
 #### Constitutional Convention 04-08 Dec2024
 - [Day 1](https://www.youtube.com/watch?v=sKLOfOUIuPg)
-  - [Day 2 coming up
+- [Day 2 coming up]
 
 
 #### Gimbalabs
