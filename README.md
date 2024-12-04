@@ -46,6 +46,7 @@
 - [DRep Program - Onboarding Pack](https://github.com/st8tikratio/CCon/blob/main/DRep%20Program%20-%20Onboarding%20Pack.pdf) - Source: [here](https://2450011466-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVNa3QAZtN9ihYGiFy8AM%2Fuploads%2FS1jW0fnJ6l1DPejz92Ct%2FDRep%20Program%20-%20Onboarding%20Pack.pdf?alt=media&token=dc58eda9-0c94-418f-9891-783f8ac03974)
 - [Registered DReps via Pool.PM](https://cardanoscan.io/certificates/dRepRegistrations)
 - [Available DReps via 1694.io](https://www.1694.io/en/dreps/list)
+- [DRep Code of Conduct]()
 
 ### Ecosystem and Infos:
 - [Community Channels via IOG](https://www.essentialcardano.io/community)
