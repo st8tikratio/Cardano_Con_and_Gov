@@ -11,6 +11,12 @@
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) - Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
 
 ### Constitution Related
+
+#### Constitutional Convention 04-08 Dec2024
+- [Day 1](https://www.youtube.com/watch?v=sKLOfOUIuPg)
+  - [Day 2 coming up
+
+
 #### Gimbalabs
 - [23-Nov-2024, Adam Dean, Gimbalabs, NOTES, Melding the two Cardano draft constitutions `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/23Nov2024-AdamDean-Gimbalabs-Melding_the-best_of_both_Cardano_draft_constitutions.pdf) - Source: [here](https://docs.google.com/document/d/1g6X_xtV0zs7koHzWwkQeVwpUGKPYN3B70iova5HKX1U/edit?tab=t.0#heading=h.pcg2e6xsuh3h)
 - [Cardano Governance Adoption: A Three-Layer Strategy](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Cardano%20Governance%20Adoption_%20A%20Three-Layer%20Strategy.pdf) - Source: [here](https://docs.google.com/document/d/1giHrWPX8zaB8uyRgX5Mo8RHGcFs0izH0Rm9jXa6ODo8/edit?tab=t.0#heading=h.s46o7q5p7w4c)
