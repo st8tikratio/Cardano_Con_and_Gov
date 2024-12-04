@@ -21,6 +21,7 @@
 - [Cardano Foundation’s Proposal for a Cardano Constitution website](https://cardanofoundation.org/blog/proposal-for-cardano-constitution)
   
 #### Intersect MBO
+- [03-Dec-2024 Draft Constitution v2](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Draft%20Constitution%20Markup%20--%20Dec%2004%202024%20--%20V2.pdf)
 - [20-Nov-2024 DRAFT Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/20Nov2024_Cardano_DRAFT_Constitution.md) - PDF: [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/20-11-2024_IntersectMBO_draft-constitution.pdf) - Source: [here](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-11-20)
   - $${\color{orange}Annotated \space version}$$ [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Marked_Up_20-11-2024_IntersectMBO_draft-constitution.pdf)
 - [2024-09-20-draft-constitution-edits](https://github.com/st8tikratio/CCCC/blob/main/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0)
