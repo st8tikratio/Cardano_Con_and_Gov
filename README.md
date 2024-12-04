@@ -12,8 +12,8 @@
 
 ### Constitution Related
 
-#### Constitutional Convention 04-08 Dec2024
-- [Day 1](https://www.youtube.com/watch?v=sKLOfOUIuPg)
+#### Constitutional Convention 04-06 Dec2024
+- Day 1 [`via Intersect`](https://www.youtube.com/watch?v=sKLOfOUIuPg) OR [`via IOHK`](https://www.youtube.com/watch?v=tIVawNkP-lo)
 - [Day 2 coming up]
 
 
