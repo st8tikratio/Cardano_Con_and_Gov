@@ -71,7 +71,7 @@
 - [DRep Program - Onboarding Pack](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/DRep%20Program%20-%20Onboarding%20Pack.pdf) • [Source](https://2450011466-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVNa3QAZtN9ihYGiFy8AM%2Fuploads%2FS1jW0fnJ6l1DPejz92Ct%2FDRep%20Program%20-%20Onboarding%20Pack.pdf?alt=media&token=dc58eda9-0c94-418f-9891-783f8ac03974)
 - [Registered DReps via Pool.PM](https://cardanoscan.io/certificates/dRepRegistrations)
 - [Available DReps via 1694.io](https://www.1694.io/en/dreps/list)
-- [DRep Code of Conduct](https://docs.google.com/document/u/0/d/1uyCOzWO9uk71GRlCv_UT08Rt3kGBQMXFDXF3iiXejjU/mobilebasic) • [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/%5BMaster%5D%20DRep%20Code%20of%20Conduct.pdf)
+- [DRep Code of Conduct](https://docs.google.com/document/u/0/d/1uyCOzWO9uk71GRlCv_UT08Rt3kGBQMXFDXF3iiXejjU/mobilebasic) • [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/%5BMaster%5D%20DRep%20Code%20of%20Conduct.pdf)
 
 ---
 
