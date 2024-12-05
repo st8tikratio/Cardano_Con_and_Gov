@@ -33,6 +33,73 @@
 
 - Video Recording: [`via Intersect`](https://t.co/t0QjshjKje) OR [`via IOHK`](https://t.co/cOaUp10S33)
 - [Proposed Constitution For Vote (draft date unchanged)](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Proposed%20Cardano%20Constitution%20for%20Vote.pdf) • [Source](https://x.com/JokerPool_ADA/status/1864719066516082711)
+- Delegate Voting Outcome:
+  - Total Votes: 62
+    - South Africa - Y
+    - Congo - Y
+    - Tanzania - Y
+    - Ethiopia - Y
+    - Maritius - Y
+    - Nigeria - Y
+    - Ghana #1 - Y
+    - Ghana #2 - Y
+    - Cameroon - Y
+    - Liberia - Y
+    - Burkina Faso - Y
+    - Osaka, Japan - Y
+    - Tokyo, Japan - Y
+    - Sri Lanka - Y
+    - UAE - Y
+    - S. Korea - Y
+    - India - Y
+    - Mongolia - Y
+    - Singapore - N
+    - Sidney, Aus - Y
+    - Perth, Aus - Y
+    - New Zealand - Y
+    - Phillipines - Y
+    - Vietnam - Y
+    - Taiwan - Y
+    - Indonesia - Y
+    - France - Y
+    - Portugal - Y
+    - Germany - Y
+    - Spain - Y
+    - Italy - Y
+    - Netherlands - Y
+    - Scotland - Y
+    - England - Y
+    - Norway - Y
+    - Austria - Y
+    - Georgia - Y
+    - Serbia - Y
+    - Bulgaria - Y
+    - Estonia - Y
+    - Greece - Y
+    - Peru - Y
+    - Sao Paulo, Brazil - Y
+    - Rio De Janero, Brazil - Y
+    - Columbia - Y
+    - Venezuela - Y
+    - Mexico - Y
+    - Paraquay - Y
+    - Buenos Aires, Argentina - Y
+    - Chile - Y
+    - Bolivia - Y
+    - Ecuador - Y
+    - San Diego, USA - Y
+    - Chicago, USA - Y
+    - Philadelphia, USA - Y
+    - Fort Meyers, USA - Y
+    - Washington D.C., USA - Y
+    - Austin, USA - Y
+    - Puerto Rico, USA - N
+    - Vancouver, Canada - Y
+    - Toronto, Canada - Y
+    - Kenya - N
+  - For = 59
+  - Dissent = 3
+  
 
 ---
 
