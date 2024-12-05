@@ -110,7 +110,11 @@
   - Nathan - Phillipines
   - Ubio - Lagos
 - Convention Delegate Committee #1 - 
-- Convention Delegate Committee #2 - 
+- Convention Delegate Committee #2 -
+- Convention Delegate Committee #3 - 
+- Convention Delegate Committee #4 - 
+- Convention Delegate Committee #5 - 
+
 
 ---
 
