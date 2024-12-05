@@ -98,9 +98,19 @@
     - Vancouver, Canada - Y
     - Toronto, Canada - Y
     - Kenya - N
-##### Delegate Voting Outcome For Committee Member Vote
-- Convention Delegate Committee #1 -
-- Convention Delegate Committee #2 -
+
+#### Day 3
+##### Delegate Voting Outcome For Special Committee Member Vote 
+- Candidates (can vote for themselves)
+  - Max - Netherlands
+  - Angie - NZ
+  - Ken Ladd - USA
+  - Astor Ticas - Estonio
+  - Maureen - Daouala
+  - Nathan - Phillipines
+  - Ubio - Lagos
+- Convention Delegate Committee #1 - 
+- Convention Delegate Committee #2 - 
 
 ---
 
