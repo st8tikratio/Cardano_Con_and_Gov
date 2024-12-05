@@ -42,15 +42,14 @@
 - [Cardano Governance Adoption: A Three-Layer Strategy](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Cardano%20Governance%20Adoption_%20A%20Three-Layer%20Strategy.pdf) • [Source](https://docs.google.com/document/d/1giHrWPX8zaB8uyRgX5Mo8RHGcFs0izH0Rm9jXa6ODo8/edit?tab=t.0#heading=h.s46o7q5p7w4c)
 
 #### Cardano Foundation
-- [20-Nov-2024 Proposal for Constitution Of The Cardano Blockchain](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf) - Source: [here](https://ucarecdn.com/a78167c7-ff20-4f32-9fad-1797206bddb1/)
-  - $${\color{orange}Annotated \space version}$$ [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Marked-up_241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf)
+- [20-Nov-2024 Proposal for Constitution Of The Cardano Blockchain](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf) • [Source](https://ucarecdn.com/a78167c7-ff20-4f32-9fad-1797206bddb1/) • [Annotated](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Marked-up_241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf)
 - [Cardano Foundation’s Proposal for a Cardano Constitution website](https://cardanofoundation.org/blog/proposal-for-cardano-constitution)
   
 #### Intersect MBO
 - [03-Dec-2024 Draft Constitution v2](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Draft%20Constitution%20Markup%20--%20Dec%2004%202024%20--%20V2.pdf)
-- [20-Nov-2024 DRAFT Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/20Nov2024_Cardano_DRAFT_Constitution.md) - PDF: [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/20-11-2024_IntersectMBO_draft-constitution.pdf) - Source: [here](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-11-20)
+- [20-Nov-2024 DRAFT Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/20Nov2024_Cardano_DRAFT_Constitution.md) •[PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/20-11-2024_IntersectMBO_draft-constitution.pdf) • [Source](https://github.com/IntersectMBO/draft-constitution/tree/main/2024-11-20)
   - $${\color{orange}Annotated \space version}$$ [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Marked_Up_20-11-2024_IntersectMBO_draft-constitution.pdf)
-- [2024-09-20-draft-constitution-edits](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0)
+- [2024-09-20-draft-constitution-edits](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) • [Source](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0)
 - [29-Jul-2024 Intersect Draft Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/IntersectConstitution.md) • [Source](https://github.com/IntersectMBO/draft-constitution) • [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Cardano%20Draft%20Constitution.pdf) • [Source](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution)
 - [Intersect MBO Github Account](https://github.com/IntersectMBO)
 - [Intersect Constitutional Council](https://github.com/IntersectMBO/intersect-constitutional-council)
@@ -70,10 +69,10 @@
 - [Reward Schemes for DReps in Voltaire](https://github.com/st8tikratio/CCon/blob/main/Voltaire%20-%20dRep%20reward%20scheme%20options%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1_uadn9Ord3mAYQGWHQySR73CQciVk2YNc5rt8npJ6Aw/edit?tab=t.0#heading=h.zdwziyr50kye)
 - [DRep Pioneering Program via Intersect](https://docs.intersectmbo.org/cardano/cardano-governance/drep-pioneering-program) - Single page
 - [DRep Program Overview via Intersect](https://dreppioneeringprogram.docs.intersectmbo.org/)
-- [DRep Program - Onboarding Pack](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/DRep%20Program%20-%20Onboarding%20Pack.pdf) - Source: [here](https://2450011466-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVNa3QAZtN9ihYGiFy8AM%2Fuploads%2FS1jW0fnJ6l1DPejz92Ct%2FDRep%20Program%20-%20Onboarding%20Pack.pdf?alt=media&token=dc58eda9-0c94-418f-9891-783f8ac03974)
+- [DRep Program - Onboarding Pack](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/DRep%20Program%20-%20Onboarding%20Pack.pdf) • [Source](https://2450011466-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVNa3QAZtN9ihYGiFy8AM%2Fuploads%2FS1jW0fnJ6l1DPejz92Ct%2FDRep%20Program%20-%20Onboarding%20Pack.pdf?alt=media&token=dc58eda9-0c94-418f-9891-783f8ac03974)
 - [Registered DReps via Pool.PM](https://cardanoscan.io/certificates/dRepRegistrations)
 - [Available DReps via 1694.io](https://www.1694.io/en/dreps/list)
-- [DRep Code of Conduct](https://docs.google.com/document/u/0/d/1uyCOzWO9uk71GRlCv_UT08Rt3kGBQMXFDXF3iiXejjU/mobilebasic) - PDF [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/%5BMaster%5D%20DRep%20Code%20of%20Conduct.pdf)
+- [DRep Code of Conduct](https://docs.google.com/document/u/0/d/1uyCOzWO9uk71GRlCv_UT08Rt3kGBQMXFDXF3iiXejjU/mobilebasic) • [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/%5BMaster%5D%20DRep%20Code%20of%20Conduct.pdf)
 
 ---
 
