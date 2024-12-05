@@ -16,7 +16,7 @@
 ---
 
 ### CIP-1694:
-- [CIP 1694](mds/1694.md) - Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
+- [CIP 1694](mds/1694.md) • [Source](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
 
 ---
 
