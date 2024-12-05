@@ -32,6 +32,7 @@
 #### Day 2
 
 - Video Recording: [`via Intersect`](https://t.co/t0QjshjKje) OR [`via IOHK`](https://t.co/cOaUp10S33)
+- [Proposed Constitution For Vote (draft date unchanged)](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Proposed%20Cardano%20Constitution%20for%20Vote.pdf)
 
 ---
 
