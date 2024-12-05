@@ -10,12 +10,19 @@
 ### CIP-1694:
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) - Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
 
-### Constitution Related
+### Constitutional Convention 04-06 Dec 2024
 
-#### Constitutional Convention 04-06 Dec2024
-- Day 1 [`via Intersect`](https://www.youtube.com/watch?v=sKLOfOUIuPg) OR [`via IOHK`](https://www.youtube.com/watch?v=tIVawNkP-lo)
+#### Day 1
+
+- Video Recordings: [`via Intersect`](https://www.youtube.com/watch?v=sKLOfOUIuPg) OR [`via IOHK`](https://www.youtube.com/watch?v=tIVawNkP-lo)
+- [Draft-Constitution 04-Dec-2024 v2 `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Draft%20Constitution%20Markup%20--%20Dec%2004%202024%20--%20V2.pdf)
+- [Updated Definitions - Draft-Constitution 04-Dec-2024 v2 `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/draft-constitution-markup-04-12-2024-v2-updated%20definitions.pdf)
+
+#### Day 2
+
 - [Day 2 coming up]
 
+### Other Constitution Related
 
 #### Gimbalabs
 - [23-Nov-2024, Adam Dean, Gimbalabs, NOTES, Melding the two Cardano draft constitutions `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/23Nov2024-AdamDean-Gimbalabs-Melding_the-best_of_both_Cardano_draft_constitutions.pdf) - Source: [here](https://docs.google.com/document/d/1g6X_xtV0zs7koHzWwkQeVwpUGKPYN3B70iova5HKX1U/edit?tab=t.0#heading=h.pcg2e6xsuh3h)
