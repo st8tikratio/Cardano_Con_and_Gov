@@ -3,6 +3,12 @@
 ###### ❗ Where possible documents were converted to PDF and uploaded as well as md files copy/pasted to this repo. This is done to maintain information in the event items 'get lost' or 'change locations.' Source links are provided. All copyrights are maintained by the document(s) original authors.
 ###### ⚠️ If you are unfamiliar with the Draft Constitution it is recommended that you [read this document](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0) or [PDF here](https://github.com/st8tikratio/CCCC/blob/main/2024-09-20-draft-constitution-edits%20-%20Google%20Docs.pdf) to gain an understanding of potential future impacts on the community-proper.
 
+---
+
+### Is It Fair, Democratic, Decentralized?
+- [Governance Watch](https://changwatch.com)
+---
+
 ### CIPs (Cardano Improvement Proposals) and CPS (Cardano Problem Statements):
 - [Cardano CIPs & CPS](https://github.com/cardano-foundation/CIPs/tree/master)
 - [CIPs via Cardano Foundation](https://cips.cardano.org/)
