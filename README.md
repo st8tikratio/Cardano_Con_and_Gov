@@ -31,7 +31,7 @@
 
 #### Day 2
 
-- Video Recording: [`via Intersect`]() OR [`via IOHK`]()
+- Video Recording: [`via Intersect`](https://t.co/t0QjshjKje) OR [`via IOHK`](https://t.co/cOaUp10S33)
 
 ---
 
