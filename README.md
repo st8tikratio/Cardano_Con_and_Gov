@@ -31,7 +31,7 @@
 
 #### Day 2
 
-- Video Recording: [via `Intersect`]() OR [via `IOHK`]()
+- Video Recording: [`via Intersect`]() OR [`via IOHK`]()
 
 ---
 
