@@ -54,7 +54,7 @@
 - [Intersect Constitution](https://github.com/st8tikratio/CCCC/blob/main/IntersectConstitution.md) - Source: [here](https://docs.intersectmbo.org/cardano/cardano-governance)
 - [Intersect MBO Github Account](https://github.com/IntersectMBO)
 - [Intersect Constitutional Council](https://github.com/IntersectMBO/intersect-constitutional-council)
-- [Cardano Draft Constitution](https://github.com/st8tikratio/CCCC/blob/main/Cardano%20Draft%20Constitution.pdf) - Source: [here](https://github.com/IntersectMBO/draft-constitution)
+- [Cardano Draft Constitution](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Cardano%20Draft%20Constitution.pdf) - Source: [here](https://github.com/IntersectMBO/draft-constitution)
 - [Constitutional Workshop Topics and Questions](https://github.com/st8tikratio/CCCC/blob/main/Constitutional%20Workshop%20Topics%20and%20Q's%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1_aEfTRbAFJebCbg9DiLjBmSuwYfW-i-Rjk1cqXUKrXo/edit?tab=t.0#heading=h.4mdrss2rywz2)
 - [Constitutional Workshop Glossary](https://docs.intersectmbo.org/cardano/cardano-governance/cardano-constitution/draft-cardano-constitution/constitutional-workshop-glossary)
 - [Constitutional Notes & Resources](https://docs.google.com/document/d/1J_DEH1L6YBR4dtwFHs418clVooTNLTlWSLra8G3Y-kw/edit?tab=t.0)
