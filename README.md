@@ -21,7 +21,7 @@
 
 #### Day 2
 
-- [Day 2 coming up]
+- Video Recording: [via `Intersect`]() OR [via `IOHK`]()
 
 ### Other Constitution Related
 
