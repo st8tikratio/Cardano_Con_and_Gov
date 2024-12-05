@@ -42,7 +42,7 @@
 - [Cardano Governance Adoption: A Three-Layer Strategy](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Cardano%20Governance%20Adoption_%20A%20Three-Layer%20Strategy.pdf) • [Source](https://docs.google.com/document/d/1giHrWPX8zaB8uyRgX5Mo8RHGcFs0izH0Rm9jXa6ODo8/edit?tab=t.0#heading=h.s46o7q5p7w4c)
 
 #### Cardano Foundation
-- [20-Nov-2024 Proposal for Constitution Of The Cardano Blockchain](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf) • [Source](https://ucarecdn.com/a78167c7-ff20-4f32-9fad-1797206bddb1/) • [Annotated](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Marked-up_241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf)
+- [20-Nov-2024 Proposal for Constitution Of The Cardano Blockchain](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf) • [Source](https://ucarecdn.com/a78167c7-ff20-4f32-9fad-1797206bddb1/) • [Annotated](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Marked-up_241120_CF%20Proposal%20for%20Cardano%20Constitution_FINAL.pdf)
 - [Cardano Foundation’s Proposal for a Cardano Constitution website](https://cardanofoundation.org/blog/proposal-for-cardano-constitution)
   
 #### Intersect MBO
