@@ -15,7 +15,7 @@
 #### Day 1
 
 - Video Recordings: [`via Intersect`](https://www.youtube.com/watch?v=sKLOfOUIuPg) OR [`via IOHK`](https://www.youtube.com/watch?v=tIVawNkP-lo)
-- Constitutions:
+- Working Constitutions:
   - [Draft-Constitution 04-Dec-2024 v2 `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/Draft%20Constitution%20Markup%20--%20Dec%2004%202024%20--%20V2.pdf)
   - [Updated - Draft-Constitution 04-Dec-2024 v2 `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/updated-defs-draft-constitution-markup-04Dec2024-v2.pdf)
 
