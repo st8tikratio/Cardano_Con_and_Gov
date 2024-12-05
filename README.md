@@ -64,10 +64,10 @@
 ---
 
 ### DRep, Delegate, Vote and More:
-- [Gov Tools](https://gov.tools/) - All things DRep; register, delegate, vote
+- [Gov Tools](https://gov.tools/) • All things DRep; register, delegate, vote
 - [CIP 1694 - An On-Chain Decentralized Governance Mechanism for Voltaire](https://www.1694.io/en)
-- [Reward Schemes for DReps in Voltaire](https://github.com/st8tikratio/CCon/blob/main/Voltaire%20-%20dRep%20reward%20scheme%20options%20-%20Google%20Docs.pdf) - Source: [here](https://docs.google.com/document/d/1_uadn9Ord3mAYQGWHQySR73CQciVk2YNc5rt8npJ6Aw/edit?tab=t.0#heading=h.zdwziyr50kye)
-- [DRep Pioneering Program via Intersect](https://docs.intersectmbo.org/cardano/cardano-governance/drep-pioneering-program) - Single page
+- [Reward Schemes for DReps in Voltaire](https://github.com/st8tikratio/CCon/blob/main/Voltaire%20-%20dRep%20reward%20scheme%20options%20-%20Google%20Docs.pdf) • [Source](https://docs.google.com/document/d/1_uadn9Ord3mAYQGWHQySR73CQciVk2YNc5rt8npJ6Aw/edit?tab=t.0#heading=h.zdwziyr50kye)
+- [DRep Pioneering Program via Intersect](https://docs.intersectmbo.org/cardano/cardano-governance/drep-pioneering-program) • Single page
 - [DRep Program Overview via Intersect](https://dreppioneeringprogram.docs.intersectmbo.org/)
 - [DRep Program - Onboarding Pack](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/DRep%20Program%20-%20Onboarding%20Pack.pdf) • [Source](https://2450011466-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FVNa3QAZtN9ihYGiFy8AM%2Fuploads%2FS1jW0fnJ6l1DPejz92Ct%2FDRep%20Program%20-%20Onboarding%20Pack.pdf?alt=media&token=dc58eda9-0c94-418f-9891-783f8ac03974)
 - [Registered DReps via Pool.PM](https://cardanoscan.io/certificates/dRepRegistrations)
@@ -78,7 +78,7 @@
 
 ### Ecosystem and Infos:
 - [Community Channels via IOG](https://www.essentialcardano.io/community)
-- [Essential Cardano List via Intersect](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/Essential_Cardano_via_Intersect.md) - Source: [here](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
+- [Essential Cardano List via Intersect](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/Essential_Cardano_via_Intersect.md) • [Source](https://github.com/IntersectMBO/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list)
 - [Wealth Composition via Cardano Explorer](https://cexplorer.io/wealth)
 
 ---
