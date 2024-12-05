@@ -7,8 +7,12 @@
 - [Cardano CIPs & CPS](https://github.com/cardano-foundation/CIPs/tree/master)
 - [CIPs via Cardano Foundation](https://cips.cardano.org/)
 
+---
+
 ### CIP-1694:
 - [CIP 1694](https://github.com/st8tikratio/CCCC/blob/main/1694.md) - Source: [here](https://github.com/JaredCorduan/CIPs/blob/voltaire-v1/CIP-1694/README.md?plain=1)
+
+---
 
 ### Constitutional Convention 04-06 Dec 2024
 
@@ -22,6 +26,8 @@
 #### Day 2
 
 - Video Recording: [via `Intersect`]() OR [via `IOHK`]()
+
+---
 
 ### Other Constitution Related
 
@@ -51,6 +57,7 @@
 - [Constitution Committee Portal Repository via Intersect](https://github.com/IntersectMBO/cc-portal)
 - [Constitutional Committee Portal via GovTools](https://constitution.gov.tools/)
 
+---
 
 ### DRep, Delegate, Vote and More:
 - [Gov Tools](https://gov.tools/) - All things DRep; register, delegate, vote
@@ -62,6 +69,8 @@
 - [Registered DReps via Pool.PM](https://cardanoscan.io/certificates/dRepRegistrations)
 - [Available DReps via 1694.io](https://www.1694.io/en/dreps/list)
 - [DRep Code of Conduct](https://docs.google.com/document/u/0/d/1uyCOzWO9uk71GRlCv_UT08Rt3kGBQMXFDXF3iiXejjU/mobilebasic) - PDF [here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/%5BMaster%5D%20DRep%20Code%20of%20Conduct.pdf)
+
+---
 
 ### Ecosystem and Infos:
 - [Community Channels via IOG](https://www.essentialcardano.io/community)
