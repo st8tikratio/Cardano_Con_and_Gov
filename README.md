@@ -33,8 +33,9 @@
 
 - Video Recording: [`via Intersect`](https://t.co/t0QjshjKje) OR [`via IOHK`](https://t.co/cOaUp10S33)
 - [Proposed Constitution For Vote (draft date unchanged)](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Proposed%20Cardano%20Constitution%20for%20Vote.pdf) • [Source](https://x.com/JokerPool_ADA/status/1864719066516082711)
-- Delegate Voting Outcome:
+##### Delegate Voting Outcome To Make Draft Constitution FINAL
   - Total Votes: 62
+  - **FOR** = 59 • **AGAINST** = 3
     - South Africa - Y
     - Congo - Y
     - Tanzania - Y
@@ -97,9 +98,9 @@
     - Vancouver, Canada - Y
     - Toronto, Canada - Y
     - Kenya - N
-  - For = 59
-  - Dissent = 3
-  
+##### Delegate Voting Outcome For Committee Member Vote
+- Convention Delegate Committee #1 -
+- Convention Delegate Committee #2 -
 
 ---
 
