@@ -82,7 +82,7 @@
   - rules for committee are upo to elected members
   - if these persons cannot hanfdle their taskings they can hand the responsiblity back to the Civics Committee
   - top 5 vote-getters will set rules for committee
-- Candidates - Currently Missing Some - (can vote for themselves)
+- Guiding Future Workstream Candidates
   - | Candidate            |  Candidate                 |
     | ------------------   | ------------------           |
     | Tanzania | Maureen - Cameroon           |            
@@ -90,13 +90,14 @@
     | Lagos |              Ken Ladd - USA |
     | (???) Teacher    | Max - Netherlands           |
     | Cash / Zack - USA | Gabriel - USA          |
-    | Angie - New Zealand   | Andrew Thornhill - Georgia     |
+    | Engie - New Zealand   | Andrew Thornhill - Georgia     |
     | Maria Carmo - Brazil  | Lee Youse / Joker          |
-- Convention Delegate for Special Committee #1 - Engie Matene
-- Convention Delegate for Special Committee #2 - Ken Ladd
-- Convention Delegate for Special Committee #3 - Andrew Thornhill
-- Convention Delegate for Special Committee #4 - Nathan Kanopi
-- Convention Delegate for Special Committee #5 - Maureen
+- Outcome
+  - Convention Delegate for Special Committee #1 - Engie Matene
+  - Convention Delegate for Special Committee #2 - Ken Ladd
+  - Convention Delegate for Special Committee #3 - Andrew Thornhill
+  - Convention Delegate for Special Committee #4 - Nathan Kanopi
+  - Convention Delegate for Special Committee #5 - Maureen
 
 ---
 
