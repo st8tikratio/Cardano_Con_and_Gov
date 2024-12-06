@@ -24,86 +24,80 @@
 
 #### Day 1
 
-- Video Recordings: [`via Intersect`](https://www.youtube.com/watch?v=sKLOfOUIuPg) OR [`via IOHK`](https://www.youtube.com/watch?v=tIVawNkP-lo)
-- Working Constitutions:
+##### Video Recordings: 
+- [`via Intersect`](https://www.youtube.com/watch?v=sKLOfOUIuPg)
+- [`via IOHK`](https://www.youtube.com/watch?v=tIVawNkP-lo)
+##### Working Constitutions:
   - [Draft-Constitution 04-Dec-2024 v2 `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Draft%20Constitution%20Markup%20--%20Dec%2004%202024%20--%20V2.pdf)
   - [Updated - Draft-Constitution 04-Dec-2024 v2 `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/updated-defs-draft-constitution-markup-04Dec2024-v2.pdf)
 
 #### Day 2
-
-- Video Recording: [`via Intersect`](https://t.co/t0QjshjKje) OR [`via IOHK`](https://t.co/cOaUp10S33)
+##### Video Recording: 
+- [`via Intersect`](https://t.co/t0QjshjKje)
+- [`via IOHK`](https://t.co/cOaUp10S33)
+##### Working Constitutions:
 - [Proposed Constitution For Vote (draft date unchanged)](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Proposed%20Cardano%20Constitution%20for%20Vote.pdf) • [Source](https://x.com/JokerPool_ADA/status/1864719066516082711)
-- ========================================================
-- **Delegate Voting Outcome To Make Draft Constitution FINAL**
-  - Total Votes: 63
-  - **FOR** = 59 • **AGAINST** = 3 • **MISSING** = 1
-    - South Africa - Y
-    - Congo - Y
-    - Tanzania - Y
-    - Ethiopia - Y
-    - Maritius - Y
-    - Nigeria - Y
-    - Ghana #1 - Y
-    - Ghana #2 - Y
-    - Cameroon - Y
-    - Liberia - Y
-    - Burkina Faso - Y
-    - Osaka, Japan - Y
-    - Tokyo, Japan - Y
-    - Sri Lanka - Y
-    - UAE - Y
-    - S. Korea - Y
-    - India - Y
-    - Mongolia - Y
-    - Singapore - N
-    - Sidney, Aus - Y
-    - Perth, Aus - Y
-    - New Zealand - Y
-    - Phillipines - Y
-    - Vietnam - Y
-    - Taiwan - Y
-    - Indonesia - Y
-    - France - Y
-    - Portugal - Y
-    - Germany - Y
-    - Spain - Y
-    - Italy - Y
-    - Netherlands - Y
-    - Scotland - Y
-    - England - Y
-    - Norway - Y
-    - Austria - Y
-    - Georgia - Y
-    - Serbia - Y
-    - Bulgaria - Y
-    - Estonia - Y
-    - Greece - Y
-    - Peru - Y
-    - Sao Paulo, Brazil - Y
-    - Rio De Janero, Brazil - Y
-    - Columbia - Y
-    - Venezuela - Y
-    - Mexico - Y
-    - Paraquay - Y
-    - Buenos Aires, Argentina - Y
-    - Chile - Y
-    - Bolivia - Y
-    - Ecuador - Y
-    - San Diego, USA - Y
-    - Chicago, USA - Y
-    - Philadelphia, USA - Y
-    - Fort Meyers, USA - Y
-    - Washington D.C., USA - Y
-    - Austin, USA - Y
-    - Puerto Rico, USA - N
-    - Vancouver, Canada - Y
-    - Toronto, Canada - Y
-    - Kenya - N
-    - **MISSING** - Y
+##### **Delegate Voting Outcome To Make Draft Constitution FINAL**
+  - __**Total Votes: 63**__
+  - | YES              | YES (cont.)       | NO                   |
+    | -------          | --------             | ---------          |
+    | South Africa     |  Spain           |     Singapore               |
+    | Congo            |  Italy         |      Puerto Rico               |
+    | Tanzania         |  Netherlands               |                    |
+    | Ethiopia                 |     Scotland                 |                    |
+    | Maritius                 |     England                 |                    |
+    | Nigeria                 |       Norway               |                    |
+    | Ghana #1                 |     Austria                 |                    |
+    | Ghana #2                 |    Georgia                  |                    |
+    | Cameroon                 |    Serbia                  |                    |
+    | Liberia                 |      Bulgaria                |                    |
+    | Burkina Faso                 |   Estonia                   |                    |
+    | Osaka, Japan                 |   Greece                   |                    |
+    | Tokyo, Japan                 |   Peru                   |                    |
+    | Sri Lanka                 |   Sao Paulo, Brazil                   |                    |
+    | U.A.E.                 |   Rio de Janeiro, Brazil                   |                    |
+    | South Korea                 |  Columbia                    |                    |
+    | India                 |      Venezuela                |                    |
+    | Mongolia                 |     Mexico                 |                    |
+    | Sidney, Aus                 |   Paraguay                   |                    |
+    | Perth, Aus                 |    Argentina #1                  |                    |
+    | New Zealand                 |   Argentina #2                   |                    |
+    | Phillipines                 |  Chile                    |                    |
+    | Vietnam                 |      Bolivia                |                    |
+    | Taiwan                 |        Ecuador              |                    |
+    | Indonesia                 |   San Diego, USA                    |                    |
+    | France                 |    Chicago, USA                  |                    |
+    | Portugal                 |  Philadeplhia, USA                    |                    |
+    | Germany                 |  Fort Meyers, USA                    |                    |
+    |  Washington D.C., USA                |   Austin, TX                   |                    |
+    |        Vancouver, Canada          |    Toronto, Canada                  |                    |
 
 #### Day 3
-##### Delegate Voting Outcome For Special Committee Member Vote 
+##### Video Recordings:
+- [Intersect MBO](https://t.co/B8ATlfzmD0)
+- [IOHK](https://t.co/HjLuPS5tvu)
+##### Delegate Voting: `Future Workstreams Guide Committee` Vote
+- Committee is to be "autonomous" and supported by IMBO
+  - includes defining the definitions list
+  - if these persons cannot hanfdle their taskings they can hand the responsiblity back to the Civics Committee
+  - top 5 vote-getters will set rules for committee
 - Candidates - Currently Missing Some - (can vote for themselves)
+  - Tanzania
+  - Cameroon
+  - Congo
+  - Nathan - Phillipines ??
+  - Lagos
+  - ??? (teacher)
+  - Ken Ladd - USA
+  - Max - Netherlands
+  - Gabriel - USA
+  - Andrew Thornhill - Georgia
+  - Cash / Zack - USA
+  - Lee Youse / Joker - USA
+  - Angie - New Zealand
+  - Maria Carmo - Brazil
+
+  ----------------
   - Max - Netherlands
   - Angie - NZ
   - Ken Ladd - USA
