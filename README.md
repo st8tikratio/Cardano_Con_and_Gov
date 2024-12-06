@@ -43,7 +43,7 @@
     | -------          | --------             | ---------          |
     | South Africa     |  Spain           |     Singapore               |
     | Congo            |  Italy         |      Puerto Rico               |
-    | Tanzania         |  Netherlands               |                    |
+    | Tanzania         |  Netherlands               |     Kenya               |
     | Ethiopia                 |     Scotland                 |                    |
     | Maritius                 |     England                 |                    |
     | Nigeria                 |       Norway               |                    |
@@ -79,38 +79,24 @@
 ##### Delegate Voting: `Future Workstreams Guide Committee` Vote
 - Committee is to be "autonomous" and supported by IMBO
   - includes defining the definitions list
+  - rules for committee are upo to elected members
   - if these persons cannot hanfdle their taskings they can hand the responsiblity back to the Civics Committee
   - top 5 vote-getters will set rules for committee
 - Candidates - Currently Missing Some - (can vote for themselves)
-  - Tanzania
-  - Cameroon
-  - Congo
-  - Nathan - Phillipines ??
-  - Lagos
-  - ??? (teacher)
-  - Ken Ladd - USA
-  - Max - Netherlands
-  - Gabriel - USA
-  - Andrew Thornhill - Georgia
-  - Cash / Zack - USA
-  - Lee Youse / Joker - USA
-  - Angie - New Zealand
-  - Maria Carmo - Brazil
-
-  ----------------
-  - Max - Netherlands
-  - Angie - NZ
-  - Ken Ladd - USA
-  - Astor Ticas - Estonio
-  - Maureen - Daouala
-  - Nathan - Phillipines
-  - Ubio - Lagos
-- Convention Delegate for Special Committee #1 - 
-- Convention Delegate for Special Committee #2 -
-- Convention Delegate for Special Committee #3 - 
-- Convention Delegate for Special Committee #4 - 
-- Convention Delegate for Special Committee #5 - 
-
+  - | Candidate            |  Candidate                 |
+    | ------------------   | ------------------           |
+    | Tanzania | Maureen - Cameroon           |            
+    | Congo                 |  Nathan - Phillipines          |
+    | Lagos |              Ken Ladd - USA |
+    | (???) Teacher    | Max - Netherlands           |
+    | Cash / Zack - USA | Gabriel - USA          |
+    | Angie - New Zealand   | Andrew Thornhill - Georgia     |
+    | Maria Carmo - Brazil  | Lee Youse / Joker          |
+- Convention Delegate for Special Committee #1 - Engie Matene
+- Convention Delegate for Special Committee #2 - Ken Ladd
+- Convention Delegate for Special Committee #3 - Andrew Thornhill
+- Convention Delegate for Special Committee #4 - Nathan Kanopi
+- Convention Delegate for Special Committee #5 - Maureen
 
 ---
 
