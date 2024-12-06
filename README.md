@@ -101,7 +101,7 @@
 
 ---
 
-### Other Constitution Related
+### Other Constitution Infos
 
 #### Gimbalabs
 - [23-Nov-2024, Adam Dean, Gimbalabs, NOTES, Melding the two Cardano draft constitutions `PDF`](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/23Nov2024-AdamDean-Gimbalabs-Melding_the-best_of_both_Cardano_draft_constitutions.pdf) • [Source](https://docs.google.com/document/d/1g6X_xtV0zs7koHzWwkQeVwpUGKPYN3B70iova5HKX1U/edit?tab=t.0#heading=h.pcg2e6xsuh3h)
