@@ -33,7 +33,8 @@
 
 - Video Recording: [`via Intersect`](https://t.co/t0QjshjKje) OR [`via IOHK`](https://t.co/cOaUp10S33)
 - [Proposed Constitution For Vote (draft date unchanged)](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/Proposed%20Cardano%20Constitution%20for%20Vote.pdf) • [Source](https://x.com/JokerPool_ADA/status/1864719066516082711)
-##### Delegate Voting Outcome To Make Draft Constitution FINAL
+- ========================================================
+- **Delegate Voting Outcome To Make Draft Constitution FINAL**
   - Total Votes: 63
   - **FOR** = 59 • **AGAINST** = 3 • **MISSING** = 1
     - South Africa - Y
@@ -102,7 +103,7 @@
 
 #### Day 3
 ##### Delegate Voting Outcome For Special Committee Member Vote 
-- Candidates (can vote for themselves)
+- Candidates - Currently Missing Some - (can vote for themselves)
   - Max - Netherlands
   - Angie - NZ
   - Ken Ladd - USA
