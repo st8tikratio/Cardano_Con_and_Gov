@@ -97,7 +97,7 @@
   - Convention Delegate for Special Committee #2 - Ken Ladd
   - Convention Delegate for Special Committee #3 - Andrew Thornhill
   - Convention Delegate for Special Committee #4 - Nathan Kanopi
-  - Convention Delegate for Special Committee #5 - Maureen
+  - Convention Delegate for Special Committee #5 - Maureen from Cameroon
 
 ---
 
