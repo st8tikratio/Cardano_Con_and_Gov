@@ -98,7 +98,10 @@
   - Convention Delegate for Special Committee #3 - Andrew Thornhill
   - Convention Delegate for Special Committee #4 - Nathan Kanopi
   - Convention Delegate for Special Committee #5 - Maureen from Cameroon
-
+##### Signing And Ratififcation Of The Constitution
+- Video Links:
+  - [Intersect MBO](https://t.co/sugfhAQ47M)
+  - [IOHK](https://www.youtube.com/live/x61BoNdjtic?si=_XLaxnO8huRXzKjI)
 ---
 
 ### Other Constitution Infos
