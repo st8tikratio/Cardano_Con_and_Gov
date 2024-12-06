@@ -82,7 +82,7 @@
   - rules for committee are upo to elected members
   - if these persons cannot hanfdle their taskings they can hand the responsiblity back to the Civics Committee
   - top 5 vote-getters will set rules for committee
-- Guiding Future Workstream Candidates
+- Guiding Future Workstream Committee Candidates
   - | Candidate            |  Candidate                 |
     | ------------------   | ------------------           |
     | Tanzania | Maureen - Cameroon           |            
