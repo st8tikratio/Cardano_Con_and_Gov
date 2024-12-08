@@ -6,7 +6,7 @@
 ---
 
 ### Is It Fair, Democratic, Decentralized?
-- [Governance Watch](https://changwatch.com)
+- [Governance Watch `via Cerkorym`](https://changwatch.com)
 - [State Of Governance `via cgov.app by MadOrkestra`](https://cgov.app/governance)
 ---
 
