@@ -133,7 +133,7 @@
 ---
 
 ### DRep, Delegate, Vote and More:
-- [Gov Tools](https://gov.tools/) • All things DRep; register, delegate, vote
+- [Gov Tools](https://gov.tools/)
 - [CIP 1694 - An On-Chain Decentralized Governance Mechanism for Voltaire](https://www.1694.io/en)
 - [Reward Schemes for DReps in Voltaire](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdf/Voltaire%20-%20dRep%20reward%20scheme%20options%20-%20Google%20Docs.pdf) • [Source](https://docs.google.com/document/d/1_uadn9Ord3mAYQGWHQySR73CQciVk2YNc5rt8npJ6Aw/edit?tab=t.0#heading=h.zdwziyr50kye)
 - [DRep Pioneering Program via Intersect `single page`](https://docs.intersectmbo.org/cardano/cardano-governance/drep-pioneering-program)
