@@ -6,8 +6,10 @@
 ---
 
 ### Is It Fair, Democratic, Decentralized?
-- [Governance Watch `via Cerkorym`](https://changwatch.com)
-- [State Of Governance `via cgov.app by MadOrkestra`](https://cgov.app/governance)
+#### Community Dashboards
+- [Governance Watch `by Cerkorym`](https://changwatch.com)
+- [State Of Governance `by MadOrkestra`](https://cgov.app/governance)
+- [Tempo `by danago_2023`](https://tempo.vote/)
 ---
 
 ### CIPs (Cardano Improvement Proposals) and CPS (Cardano Problem Statements):
