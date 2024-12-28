@@ -4,6 +4,11 @@
 ###### ⚠️ If you are unfamiliar with the Draft Constitution it is recommended that you [read this document](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0) or [PDF here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/updated-defs-draft-constitution-markup-04Dec2024-v2.pdf) to gain an understanding of potential future impacts on the community-proper.
 
 ---
+
+### Parameters and Thresholds
+- [Compiled here](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/Readme.md)
+
+---
 ### Final Constitution (from Constitutional Convention)
 - `Blake2b-256 Hash`: 2a61e2f4b63442978140c77a70daab3961b22b12b63b13949a390c097214d1c5
 - [Source](https://github.com/IntersectMBO/draft-constitution/blob/main/2024-12-05/README.md)
