@@ -5,16 +5,20 @@
 
 ---
 
-### Parameters and Thresholds
-- [Cardanoscan Protocol Parameters](https://cardanoscan.io/protocolparams)
-- [Compiled here](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/Readme.md)
-
 ---
 ### Final Constitution (from Constitutional Convention)
 - `Blake2b-256 Hash`: 2a61e2f4b63442978140c77a70daab3961b22b12b63b13949a390c097214d1c5
 - [Source](https://github.com/IntersectMBO/draft-constitution/blob/main/2024-12-05/README.md)
 - [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/final-constitution.pdf)
 - [Markdown](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/final-constitution.md)
+
+### Parameters and Thresholds
+- [Cardanoscan Protocol Parameters](https://cardanoscan.io/protocolparams)
+- [Compilation of Functions and Parameters](https://github.com/st8tikratio/cardano_DRep/edit/main/docs/thresholds/Readme.md)
+  - [Pre-Plomin Hardfork Thresholds with Constitutional References](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/pre-plomin-threshold.md) • 22-Dec-2024 • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/cardano-pre-plomin-cardano-governance-thresholds_by-st8tikratio.pdf)
+  - [Detailed Cardano and Governance Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/con-parameters.md) • 22-Dec-2024 • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/detailed-con-parameters_by-st8tikratio.pdf)
+  - [Alphabetical Listing of Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/only-params.md) • 22-Dec-2024 • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/alphabetical-governance-thresholds_only-params_by-st8tikratio.pdf)
+  - [Plutus Cost Model Functions/Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/plutus-cost-model.md) • 28 Dec 2024 • [PDF-best effort](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/plutus-cost-model_partial-output_by_st8tikratio.pdf)
 
 ---
 
@@ -23,6 +27,7 @@
 - [Governance Watch `by Cerkorym`](https://changwatch.com)
 - [State Of Governance `by MadOrkestra`](https://cgov.app/governance)
 - [Tempo `by danago_2023`](https://tempo.vote/)
+
 ---
 
 ### CIPs (Cardano Improvement Proposals) and CPS (Cardano Problem Statements):
