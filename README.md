@@ -6,6 +6,7 @@
 ---
 
 ### Parameters and Thresholds
+- [Cardanoscan Protocol Parameters](https://cardanoscan.io/protocolparams)
 - [Compiled here](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/Readme.md)
 
 ---
