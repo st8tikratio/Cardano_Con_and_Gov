@@ -15,10 +15,10 @@
 ### Parameters and Thresholds
 - [Cardanoscan Protocol Parameters](https://cardanoscan.io/protocolparams)
 - [Compilation of Functions and Parameters](https://github.com/st8tikratio/cardano_DRep/edit/main/docs/thresholds/Readme.md)
-  - [Pre-Plomin Hardfork Thresholds with Constitutional References](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/pre-plomin-threshold.md) • 22-Dec-2024 • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/cardano-pre-plomin-cardano-governance-thresholds_by-st8tikratio.pdf)
-  - [Detailed Cardano and Governance Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/con-parameters.md) • 22-Dec-2024 • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/detailed-con-parameters_by-st8tikratio.pdf)
-  - [Alphabetical Listing of Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/only-params.md) • 22-Dec-2024 • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/alphabetical-governance-thresholds_only-params_by-st8tikratio.pdf)
-  - [Plutus Cost Model Functions/Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/plutus-cost-model.md) • 28 Dec 2024 • [PDF-best effort](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/plutus-cost-model_partial-output_by_st8tikratio.pdf)
+  - [Pre-Plomin Hardfork Thresholds with Constitutional References](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/pre-plomin-threshold.md) • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/cardano-pre-plomin-cardano-governance-thresholds_by-st8tikratio.pdf)
+  - [Detailed Cardano and Governance Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/con-parameters.md) • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/detailed-con-parameters_by-st8tikratio.pdf)
+  - [Alphabetical Listing of Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/only-params.md) • [PDF](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/alphabetical-governance-thresholds_only-params_by-st8tikratio.pdf)
+  - [Plutus Cost Model Functions/Parameters](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/thresholds/plutus-cost-model.md) • [PDF-best effort](https://github.com/st8tikratio/cardano_DRep/blob/main/docs/downloads/plutus-cost-model_partial-output_by_st8tikratio.pdf)
 
 ---
 
