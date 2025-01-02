@@ -3,6 +3,12 @@
 ###### ❗ Where possible documents were converted to PDF and uploaded as well as md files copy/pasted to this repo. This is done to maintain information in the event items 'get lost' or 'change locations.' Source links are provided. All copyrights are maintained by the document(s) original authors.
 ###### ⚠️ If you are unfamiliar with the Draft Constitution it is recommended that you [read this document](https://docs.google.com/document/d/1NrDvbQha7xGE2m83QEQGM6H03edUkMgn-PuoNm1YYUc/edit?pli=1&tab=t.0) or [PDF here](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/updated-defs-draft-constitution-markup-04Dec2024-v2.pdf) to gain an understanding of potential future impacts on the community-proper.
 
+
+---
+
+### Key Intersect MBO Links
+- [Intersect Board w/ Minutes](https://board.docs.intersectmbo.org/)
+
 ---
 
 ### Final Constitution (from Constitutional Convention)
@@ -10,11 +16,6 @@
 - [Source](https://github.com/IntersectMBO/draft-constitution/blob/main/2024-12-05/README.md)
 - [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/final-constitution.pdf)
 - [Markdown](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/final-constitution.md)
-
----
-
-### IntersectMBO Board
-- Find minutes [here](https://board.docs.intersectmbo.org/intersect-board-meetings/19-december-2024-inersect-board-meeting)
 
 ---
 
