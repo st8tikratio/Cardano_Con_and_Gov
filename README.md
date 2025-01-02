@@ -13,6 +13,11 @@
 
 ---
 
+### IntersectMBO Board
+- Find minutes [here](https://board.docs.intersectmbo.org/intersect-board-meetings/19-december-2024-inersect-board-meeting)
+
+---
+
 ### Parameters and Thresholds
 - [Cardanoscan Protocol Parameters](https://cardanoscan.io/protocolparams)
 - [Compilation of Functions and Parameters](https://github.com/st8tikratio/cardano_DRep/edit/main/docs/thresholds/Readme.md)
