@@ -181,4 +181,7 @@
 
 ---
 
+### External Readings
+- [The Modules: A Black Box Organizational LARP An Introduction and Field Notes](https://docs.google.com/document/d/e/2PACX-1vQZ_ROn1DBa_qi68PynATDH3ssK1D9xTH0DG5plp_vNuA3mUMD0Rl2jSG0Nlxy18ajVk6ZtMhnPFKAg/pub)
+
 ###### 🛑 end
