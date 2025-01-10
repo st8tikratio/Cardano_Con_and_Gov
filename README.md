@@ -7,8 +7,10 @@
 ---
 
 ### Key Intersect MBO Links
-- [Intersect Board w/ Minutes](https://board.docs.intersectmbo.org/)
-- [Cardano Development Holdings](Need Link)
+- [Intersect Committees](https://committees.docs.intersectmbo.org/)
+- [Parameters Committee](https://forum.cardano.org/c/governance/parameters-committee-updates/220)
+- [Latest News](https://www.intersectmbo.org/news)
+- [Website](https://www.intersectmbo.org/)
 
 ---
 
