@@ -5,5 +5,5 @@
 
 ## Governance Voting & Outcomes
 - [Governance Voting - Cexplorer.io](https://cexplorer.io/governance/voting)
-- [Governance Activity - Cexplorer.io](https://cexplorer.io/governance/activity)
+- [Governance Historical Activity - Cexplorer.io](https://cexplorer.io/governance/activity)
 - 
