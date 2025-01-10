@@ -35,6 +35,7 @@
 - [Governance Watch `by Cerkorym`](https://changwatch.com)
 - [State Of Governance `by MadOrkestra`](https://cgov.app/governance)
 - [Tempo `by danago_2023`](https://tempo.vote/)
+- [Governance data - Cexplorer.io](https://cexplorer.io/governance/)
 
 ---
 
