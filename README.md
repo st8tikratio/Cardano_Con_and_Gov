@@ -34,7 +34,7 @@
 
 ### Is It Fair, Democratic, Decentralized?
 #### Community Dashboards
-- [Governance Watch `by Cerkorym`](https://changwatch.com)
+- [Governance Watch `by Cerkorym`](https://changwatch.com) - [Source](https://github.com/Cerkoryn/Cardano-Governance-Dashboard)
 - [State Of Governance `by MadOrkestra`](https://cgov.app/governance)
 - [Tempo `by danago_2023`](https://tempo.vote/)
 - [Governance data - Cexplorer.io](https://cexplorer.io/governance/)
