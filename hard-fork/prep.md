@@ -4,7 +4,7 @@
 - [Cardano Upgrades](https://cardanoupgrades.docs.intersectmbo.org/)
 
 ## Hard-Fork Readiness
-- [Ploin Hard Fork Readiness](https://cardanoupgrades.docs.intersectmbo.org/plomin-upgrade/chang-upgrade-2-readiness)
+- [Plomin Hard Fork Readiness](https://cardanoupgrades.docs.intersectmbo.org/plomin-upgrade/chang-upgrade-2-readiness)
 - [HFS Exchange Status - Cexplorer.io](https://cexplorer.io/hfs)
 - [Intersect Development Update - Jan 2025](https://mpc.intersectmbo.org/intersect-development-update-44-january-10th)
 - [Intersect Hard Fork WG](https://committees.docs.intersectmbo.org/groups-overview/working-groups/hard-fork-working-group)
