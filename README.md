@@ -8,16 +8,16 @@
 
 ---
 
-### Cardano Constitutional Convention
-- all notes and links have been moved [HERE](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/cardano-con-conv.md)
-
----
-
 ### Key Intersect MBO Links
 - [Intersect Committees](https://committees.docs.intersectmbo.org/)
 - [Parameters Committee](https://forum.cardano.org/c/governance/parameters-committee-updates/220)
 - [Latest News](https://www.intersectmbo.org/news)
 - [Website](https://www.intersectmbo.org/)
+
+---
+
+### Cardano Constitutional Convention
+- all notes and links have been moved [HERE](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/mds/cardano-con-conv.md)
 
 ---
 
