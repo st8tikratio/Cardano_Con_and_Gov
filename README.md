@@ -186,5 +186,7 @@
 
 ### External Readings
 - [The Modules: A Black Box Organizational LARP An Introduction and Field Notes](https://docs.google.com/document/d/e/2PACX-1vQZ_ROn1DBa_qi68PynATDH3ssK1D9xTH0DG5plp_vNuA3mUMD0Rl2jSG0Nlxy18ajVk6ZtMhnPFKAg/pub) - [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/the-modules_a-black-box-organizational-larp.pdf)
+- [The Constitutions of Web3](https://arxiv.org/html/2403.00081v1) - [Web](https://arxiv.org/html/2403.00081v1) - [PDF](https://github.com/st8tikratio/Cardano_Con_and_Gov/blob/main/pdfs/The%20Constitutions%20of%20Web3.pdf)
+
 
 ###### 🛑 end
